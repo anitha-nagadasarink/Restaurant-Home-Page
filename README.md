@@ -13,8 +13,8 @@
 
 ### Demo :
 
-![Web Site Image](./Assets/demo.PNG)
+![Web Site Image](https://github.com/anitha-nagadasarink/Restaurant-Home-Pge/blob/HTML-CSS-Projects/assets/demo.png)
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://new-street-style-landing.netlify.app/)
+[Live Link !](https://new-restaurant-home-page.netlify.app/)
